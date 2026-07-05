@@ -1,4 +1,5 @@
 # Máquina Windows 7 professional (Explotación con Metasploit)
+<img width="1344" height="768" alt="NoteGPT_Image_20260704232101" src="https://github.com/user-attachments/assets/77910293-a99d-4f4b-957f-b4b6799a0043" />
 
 Este documento detalla el proceso de auditoría y explotación de la máquina **Windows 7 professional**, enfocándose en el uso del framework **Metasploit** para obtener acceso inicial mediante la vulnerabilidad EternalBlue y escalar privilegios en el sistema.
 
